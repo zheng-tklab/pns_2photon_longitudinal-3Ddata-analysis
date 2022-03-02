@@ -1,4 +1,4 @@
-# pns_longitudinal-3D-data-analysis
+# PNS 2photon longitudinal 3Ddata analysis
 
 Steps of data processing and analysis
 
