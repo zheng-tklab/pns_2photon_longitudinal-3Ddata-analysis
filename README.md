@@ -6,10 +6,8 @@ I. Automated stitching of four 16-bit raw image stacks into a superstack
 
 II. Identification and removal of epidermal autofluorescence via weakly-supervised learning and label propagation 
 
-III. 16-bit to 8-bit conversion of superstacks by nonlinear adaptive depth-dependent adjustment on global and local scales 
+III. Automated rigid and non-rigid 4D registration of stacks acquired at different time points
 
-IV. Automated rigid and non-rigid 4D registration of stacks acquired at different time points
+IV. Automated neuronal segmentation, tracing and statistical neural network analysis
 
-V. Automated neuronal segmentation, tracing and statistical neural network analysis
-
-VI. Quantitative analysis of structural plasticity in SNS-mGFP and Thy1-YFP mice.
+V. Quantitative analysis of structural plasticity in SNS-mGFP and Thy1-YFP mice.
