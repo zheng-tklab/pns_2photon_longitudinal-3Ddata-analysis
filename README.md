@@ -1,6 +1,6 @@
 # pns_longitudinal-3D-data-analysis
 
-Content
+Steps of data processing and analysis
 
 I. Automated stitching of four 16-bit raw image stacks into a superstack
 
