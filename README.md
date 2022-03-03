@@ -11,3 +11,7 @@ III. Automated rigid and non-rigid 4D registration of stacks acquired at differe
 IV. Automated neuronal segmentation, tracing and statistical neural network analysis
 
 V. Quantitative analysis of structural plasticity in SNS-mGFP and Thy1-YFP mice.
+
+1. Users can first download the file by click the menu "code", select download the zip file.
+2. Since the codes are written in matlab, you can run the code step by step in matlab.
+3. Users can use your own two-photon image stacks for testing or can use our datasets for testing.
