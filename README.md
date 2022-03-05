@@ -1,5 +1,5 @@
 # pns 2photon longitudinal 3Ddata analysis
-Peripheral neural system in two-photon longitudinal 3D data analysis
+Peripheral nervous system (PNS) in two-photon longitudinal 3D data analysis
 
 
 These codes are written in matlab, users can test single images or large-scale 4D datasets in a single PC or in High performance computers (HPC).
